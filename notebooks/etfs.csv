@@ -1,0 +1,12 @@
+ticker,name,asset,region
+IVV,iShares Core S&P 500,Equities,United States
+EZU,iShares MSCI Eurozone,Equities,Europe
+EWU,iShares MSCI United Kingdom,Equities,Europe
+ILF,iShares Latin America 40,Equities,Emerging Markets
+EWJ,iShares MSCI Japan,Equities,Japan
+FXI,iShares China Large-Cap,Equities,Emerging Markets
+IAU,iShares Gold,Commodities,Precious Metals
+SLV,iShares Silver,Commodities,Precious Metals
+IEF,iShares 7-10 Year Treasury,Rates,United States
+TIP,iShares TIPS,Rates,United States
+LQD,iShares iBoxx $ Investment Grade,Credit,United States
