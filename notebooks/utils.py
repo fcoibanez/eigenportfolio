@@ -2,6 +2,7 @@ import numpy as np
 import itertools
 import pandas as pd
 
+
 class PortfolioRebalance:
     def __init__(self, sample, volatility_target=None):
         self.sample = sample
