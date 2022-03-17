@@ -1,0 +1,32 @@
+ticker,name,asset,region
+IYM,iShares Dow Jones U.S. Basic Materials,Equities,United States
+IYK,iShares Dow Jones U.S. Consumer Goods,Equities,United States
+IYC,iShares Dow Jones U.S. Consumer Services,Equities,United States
+IYE,iShares Dow Jones U.S. Energy,Equities,United States
+IYF,iShares Dow Jones U.S. Financial Sector,Equities,United States
+IYG,iShares Dow Jones U.S. Financial Services,Equities,United States
+IYH,iShares Dow Jones U.S. Healthcare,Equities,United States
+IYJ,iShares Dow Jones U.S. Industrial,Equities,United States
+IYR,iShares Dow Jones U.S. Real Estate,Equities,United States
+IYW,iShares Dow Jones U.S. Technology,Equities,United States
+IYZ,iShares Dow Jones U.S. Telecommunications,Equities,United States
+IYT,iShares Dow Jones Transportation Average,Equities,United States
+IDU,iShares Dow Jones U.S. Utilities,Equities,United States
+EZU,iShares MSCI Eurozone,Equities,Europe
+EWU,iShares MSCI United Kingdom,Equities,Europe
+ILF,iShares Latin America 40,Equities,Emerging Markets
+EWJ,iShares MSCI Japan,Equities,Japan
+FXI,iShares China Large-Cap,Equities,Emerging Markets
+IAU,iShares Gold,Commodities,Precious Metals
+SLV,iShares Silver,Commodities,Precious Metals
+SHY,iShares 1-3 Year Treasury,Rates,United States
+IEI,iShares 3-7 Year Treasury,Rates,United States
+IEF,iShares 7-10 Year Treasury,Rates,United States
+TLH,iShares 10-20 Year Treasury,Rates,United States
+TLT,iShares 20+ Year Treasury,Rates,United States
+TIP,iShares TIPS,Rates,United States
+MUB,iShares National Muni,Rates,United States
+HYG,iShares iBoxx $ High Yield Corporate,Credit,United States
+LQD,iShares iBoxx $ Investment Grade Corporate,Credit,United States
+MBB,iShares MBS ETF,Credit,United States
+EMB,iShares J.P. Morgan Emerging Markets Debt,Credit,Emerging Markets
