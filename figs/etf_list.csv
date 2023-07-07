@@ -1,0 +1,43 @@
+ticker,name,asset,region,aesthetic
+IYJ,iShares Dow Jones U.S. Industrial,Equities,United States,U.S. Industrial
+IYC,iShares Dow Jones U.S. Consumer Services,Equities,United States,U.S. Consumer Services
+IYM,iShares Dow Jones U.S. Basic Materials,Equities,United States,U.S. Basic Materials
+IYF,iShares Dow Jones U.S. Financial Sector,Equities,United States,U.S. Financial Sector
+IYK,iShares Dow Jones U.S. Consumer Goods,Equities,United States,U.S. Consumer Goods
+IYT,iShares Dow Jones Transportation Average,Equities,United States,U.S. Transportation
+IYG,iShares Dow Jones U.S. Financial Services,Equities,United States,U.S. Financial Services
+IYW,iShares Dow Jones U.S. Technology,Equities,United States,U.S. Technology
+IYZ,iShares Dow Jones U.S. Telecommunications,Equities,United States,U.S. Telecommunications
+IYH,iShares Dow Jones U.S. Healthcare,Equities,United States,U.S. Healthcare
+IYE,iShares Dow Jones U.S. Energy,Equities,United States,U.S. Energy
+IYR,iShares Dow Jones U.S. Real Estate,Equities,United States,U.S. Real Estate
+IDU,iShares Dow Jones U.S. Utilities,Equities,United States,U.S. Utilities
+EWU,iShares MSCI United Kingdom,Equities,Europe,United Kingdom
+EZU,iShares MSCI Eurozone,Equities,Europe,Eurozone
+ILF,iShares Latin America 40,Equities,Emerging Markets,Latin America
+EWJ,iShares MSCI Japan,Equities,Japan,Japan
+FXI,iShares China Large-Cap,Equities,Emerging Markets,China
+HYG,iShares iBoxx $ High Yield Corporate,Credit,United States,High Yield Corporate
+EMB,iShares J.P. Morgan Emerging Markets Debt,Credit,Emerging Markets,Emerging Markets Debt
+LQD,iShares iBoxx $ Investment Grade Corporate,Credit,United States,Investment Grade Corporate
+IAU,iShares Gold,Commodities,Precious Metals,Gold
+SLV,iShares Silver,Commodities,Precious Metals,Silver
+MUB,iShares National Muni,Rates,United States,Municipals
+MBB,iShares MBS ETF,Credit,United States,MBS
+TIP,iShares TIPS,Rates,United States,TIPS
+SHY,iShares 1-3 Year Treasury,Rates,United States,1-3 Year Treasury
+IEI,iShares 3-7 Year Treasury,Rates,United States,3-7 Year Treasury
+IEF,iShares 7-10 Year Treasury,Rates,United States,7-10 Year Treasury
+TLH,iShares 10-20 Year Treasury,Rates,United States,10-20 Year Treasury
+TLT,iShares 20+ Year Treasury,Rates,United States,20+ Year Treasury
+
+
+
+
+
+
+
+
+
+
+
